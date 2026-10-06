@@ -4,6 +4,13 @@ A responsive multi-page site built from a ready-made Figma design — plain HTML
 
 🔗 **Demo:** https://zhuridochka.github.io/Mental-unit-show/services.html#
 
+## Screenshots
+
+| Desktop | Mobile |
+|---|---|
+| ![Desktop](./previews/Screenshot_desktop.jpg) | ![Tablet](./previews/Screenshot_tablet.jpg) |
+| ![Desktop](./previews/Screenshot_desktop-02jpg.jpg) | ![Mobile](./previews/Screenshot_mobile-02.jpg) |
+
 ## Pages
 - `index.html` — entry page
 - `home.html` — home
