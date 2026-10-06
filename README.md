@@ -8,8 +8,11 @@ A responsive multi-page site built from a ready-made Figma design — plain HTML
 
 | Desktop | Mobile |
 |---|---|
-| ![Desktop](./previews/Screenshot_desktop.jpg) | ![Tablet](./previews/Screenshot_tablet.jpg) |
 | ![Desktop](./previews/Screenshot_desktop-02jpg.jpg) | ![Mobile](./previews/Screenshot_mobile-02.jpg) |
+
+| Desktop | Tablet |
+|---|---|
+| ![Desktop](./previews/Screenshot_desktop.jpg) | ![Tablet](./previews/Screenshot_tablet.jpg) |
 
 ## Pages
 - `index.html` — entry page
